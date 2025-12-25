@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CODING<br>👯 I’m looking to collaborate on CODING<br>🤝 I’m looking for help with CODING<br>🌱 I’m currently learning CODING<br>💬 Ask me about CODING ONLY<br>⚡ Fun fact<br>there is no fun facts at all...
+🔭 I’m currently working on CODING<br>👯 I’m looking to collaborate on CODING<br>🤝 I’m looking for help with CODING<br>🌱 I’m currently learning CODING<br>💬 Ask me about CODING ONLY<br>⚡ Fun fact<br>there is no fun fact at all...
 
 
 # 💻 Tech Stack:
